@@ -1,0 +1,2 @@
+I am using this new .txt document to practice using git and github.
+My main objective is how to fork, clone and upload to my own fork.
